@@ -22,4 +22,4 @@ for i in range(1, 1000000):
 
 print(sum)
 
-x = pow(5, 5)
+
